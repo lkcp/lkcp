@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lkcp
 - 👀 I’m interested in post-quantum cryptograpgy and side-channel security
-- 🌱 I’m currently learning arm-asm, rust and fpga
+- 🌱 I’m currently learning arm-asm, rust and risc-v hard/software codesign
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 Contact me: wangjian9802@gmail.com
 
